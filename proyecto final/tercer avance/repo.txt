@@ -1,1 +1,6 @@
+REPOSITORIOS
 https://github.com/WareBox-Logistics
+
+
+PIPELINE
+https://github.com/WareBox-Logistics/backend/blob/main/.github/workflows/laravel.yml
